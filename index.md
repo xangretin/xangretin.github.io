@@ -36,10 +36,10 @@ The goal is to use this as a platform to keep myself consistent, and document my
 - Homelab engineering/virtualized threat scenarios
 - Local development with AI
 
---
+---
 
 ## Projects
 
--**NoteRefinerAgent** - Python CLI tool to refine my obsidian notes into a more readable and professional format
--**Update MAnager CLI** - In progress tool to see and sort all packages available on the system. Would like to refine this to an automatic source code scan for suspicious code with the arch repository breach.
--**Project Euler** - Actively completing project euler problems and will add them as I go
+-**NoteRefinerAgent** Python CLI tool to refine my obsidian notes into a more readable and professional format
+-**Update MAnager CLI** In progress tool to see and sort all packages available on the system. Would like to refine this to an automatic source code scan for suspicious code with the arch repository breach.
+-**Project Euler** Actively completing project euler problems and will add them as I go
